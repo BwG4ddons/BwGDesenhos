@@ -1,0 +1,341 @@
+
+
+
+channels>
+<channel>
+<name>[COLOR blue] Tom e Jerry [/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qO0aveHUNqKciN9hO5EvBQGtZ3d.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Tom%20e%20Jerry</externallink> 
+<fanart>https://image.tmdb.org/t/p/original/xX3M4cCZLZbkCRdjcWgDu3cjh7S.jpg</fanart>
+<info>[B][COLOR red]SINOPSE: Tom e Jerry é um desenho animado centrado nas tentativas frustradas de um gato chamado Tom em capturar Jerry, um ratinho muito esperto e engenhoso. Geralmente em todos os episódios acontecem eletrizantes perseguições, utilização de diversas armadilhas e truques, que na maioria das vezes não causam um resultado satisfatório[COLOR red][/COLOR][/B]</info> 
+
+
+[COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info> 
+</channel> 
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+channels>
+<channel>
+<name>[COLOR blue] Pica-Pau [/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mCbgJFHJ2xStZ2BLQVIqIevmqkz.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Pica%20Pau</externallink> 
+<fanart>https://image.tmdb.org/t/p/original/4x7hqaxMkPY4YphXJZCNuP8jJXc.jpg</fanart>
+<info>[B][COLOR red]SINOPSE:Uma série nova do personagem Pica-Pau! Criadas pela Universal Pictures International e pela Universal 1440 Entertainment.Mergulhe nas aventuras de Pica-Pau ao lado de Winnie, Zeca Urubu, Leôncio, Andy Panda, Picolino, Toquinho e Lasquita, distribuídos em dez novos e emocionantes episódios, entre eles, dois que se passam no Brasil.[COLOR red][/COLOR][/B]</info> 
+
+
+[COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info> 
+</channel> 
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+channels>
+<channel>
+<name>[COLOR blue] Looney Tunes - Pernalonga e sua Turma [/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fWm2EdMHwCeJ3btKIogEilXBiYz.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Looney%20Tunes%20-%20Pernalonga%20e%20sua%20Turma</externallink> 
+<fanart>https://image.tmdb.org/t/p/original/uYs1nm61ouIIYF2IRU7NaLBpDQm.jpg</fanart>
+<info>[B][COLOR red]SINOPSE:Pernalonga e sua Turma ou simplesmente Looney Tunes, é uma série clássica animada que reúne histórias de diversos personagens como Patolino, Pernalonga, Hortelino, e muitos outros. Cada episódio é sempre uma história nova, repleta de humor e de personagens fora do normal.[COLOR red][/COLOR][/B]</info> 
+
+
+[COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info> 
+</channel> 
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+channels>
+<channel>
+<name>[COLOR blue]  Zé Buscapé [/COLOR]</name>
+<thumbnail>https://i.pinimg.com/564x/2c/cb/b7/2ccbb741d6c18809e3d936058eee4874.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Z%C3%A9%20Buscap%C3%A9</externallink> 
+<fanart>https://i.pinimg.com/originals/2c/cb/b7/2ccbb741d6c18809e3d936058eee4874.jpg</fanart>
+<info>[B][COLOR red]SINOPSE:Mostra uma família de ursos vivendo no campo, desfrutando de paz e sossego e sempre defendendo as suas terras de possíveis invasores, disparando seus rifles contra qualquer coisa que se mexa.[COLOR red][/COLOR][/B]</info> 
+
+
+[COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info> 
+</channel> 
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+channels>
+<channel>
+<name>[COLOR blue] DuckTales: Os Caçadores de Aventuras [/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wjQfPEkKA0hgV5BxWGCrLS7qHlx.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/DuckTales%20-%20Os%20Ca%C3%A7adores%20de%20Aventuras</externallink> 
+<fanart>https://image.tmdb.org/t/p/original/xITlloKrbhwDsY1L8eaMMHHXCf.jpg</fanart>
+<info>[B][COLOR red]SINOPSE:O desenho clássico dos anos 80 e 90 Ducktales: Os caçadores de aventura. A maioria dos episódios rodam em torno do Tio Patinhas, que envolve sempre a sua família, os seus amigos e é claro, os seus inimigos. Os episódios têm as mais variadas histórias, que geralmente envolvem viagens para todos os locais do mundo, conhecendo outros povos, civilizações, fazendo novos amigos (e inimigos), procurando relíquias e tesouros lendários, disputando competições, desvendando mistérios e até viajando no tempo. Quando não estão a viajar, as personagens aventuram-se dentro da agitada cidade de Patópolis, onde vivem. A série mostra, em muitas das vezes, as aventuras de Indiana Jones, principalmente pelo espírito aventureiro do Tio Patinhas, lembrar em muito o famoso arqueólogo vivido por Harrison Ford.[COLOR red][/COLOR][/B]</info> 
+
+
+[COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info> 
+</channel> 
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+channels>
+<channel>
+<name>[COLOR blue] Os Flintstones [/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kJpL6zkMyoN0CuoPKftWxEJ6Y9T.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Os%20Flintstones</externallink> 
+<fanart>https://image.tmdb.org/t/p/original/uuUedCNoBn21VVmWWM4Q0zd1YNt.jpg</fanart>
+<info>[B][COLOR red]SINOPSE:Os Flintstones (The Flintstones) o desenho animado preferido de muitos você só encontra aqui no hidratorrent.com e parceiros. Precedido pelo poderoso Yabba dabba doo! de Fred Flintstone, o inconfundível tema musical da série animada Flintstones vêm há décadas funcionando como senha para audiências de todo o mundo: a diversão está chegando. Seja pelo explosivo e divertido temperamento de Fred, pelos risinhos de Wilma, pelas trapalhadas do vizinho Barney ou pelo carinho do "cachorro" Dino. Homenageados por muitos imitados por tantos outros, os Flintstones seguem fazendo a alegria de que os assiste, desde a idade da pedra.[COLOR red][/COLOR][/B]</info> 
+
+
+[COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info> 
+</channel> 
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+channels>
+<channel>
+<name>[COLOR blue] Super Choque [/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/c4bMyE2SZv9B6rS0Anvlwej14R1.jpg</thumbnail> 
+<externallink>https://github.com/carivaldo/ADDON-1/edit/master/Super%20Choque</externallink> 
+<fanart>https://image.tmdb.org/t/p/original/oYeWPNV0QZri8eRNmyRTeC57ijx.jpg</fanart>
+<info>[B][COLOR red]SINOPSE:Static Shock (no Brasil, Super Choque) é uma série animada produzida pela Warner Bros. Television, tendo estreado em Setembro de 2001 no canal norte-americano The WB, no bloco dedicado à animações infantis. Foi exibida por quatro temporadas, num total de 52 episódios.[COLOR red][/COLOR][/B]</info> 
+
+
+[COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info> 
+</channel> 
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+channels>
+<channel>
+<name>[COLOR blue]  Os Caça-Fantasmas [/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j1xlBYeyOQcH51xQc4gEFJK6o13.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Os%20Ca%C3%A7a-Fantasmas</externallink> 
+<fanart>https://image.tmdb.org/t/p/original/hA7B45C8sFiqut0eGBxcq2jtOWK.jpg</fanart>
+<info>[B][COLOR red]SINOPSE:A série que inicialmente se chamaria Os Caça-Fantasmas acabou tendo que ser rebatizada de Os Verdadeiros Caça-Fantasmas devido à existência de um programa homônimo (no Brasil conhecido como Os Fantasmas), versão animada de uma antiga série da TV americana que por aqui teve o nome de Trio Calafrio.
+
+Produzido pela DIC Enterprises Production, Os Verdadeiros Caça-Fantasmas fez bastante sucesso no mundo, em parte, graças aos roteiros caprichados e a boa animação que agradavam também o público adulto.
+
+O tema musical do filme, intitulado “Ghostbusters” também foi usado no desenho animado. A canção foi um grande hit e fez do compositor e cantor Ray Parker Jr. um dos astros da temporada.
+
+Em 1989, o personagem Geléia ganhou seu próprio programa (onde os Caça-Fantasmas eram coadjuvantes) que teve 54 episódios. As histórias, entretanto, eram mais infantis e o seriado durou apenas dois anos. Como curiosidade, a dublagem de Winston Zeddmore (o único integrante do grupo contratado) era feita pelo conhecido comediante Arsenio Hall.
+
+O desenho se passava em Nova York, onde o esnobe Peter Venkman, o manso Ray Stantz e o gênio Egon Spengler eram três cientistas do departamento de psicologia da Columbia University, que se dedicavam ao estudo de casos paranormais. Mas quando a subvenção terminou, eles foram despedidos. Assim, Venkman sugeriu que tivessem um negócio próprio, mas como não tinham dinheiro fizeram empréstimos, alugaram um prédio quase caindo aos pedaços e inauguraram ali uma exterminadora de fantasmas chamada "Ghostbusters". Para atender aos telefonemas contrataram como secretária, a irritante Janine Melnitz.
+
+Inicialmente eles só tiveram despesas e nenhum cliente, mas quando os fantasmas começaram a atacar a cidade e os caçadores se tornaram famosos, eles ficaram tão sobrecarregados de trabalho que contrataram Winston Zeddmore para ajudar na captura das criaturas. Zeddmore nada sabia de assuntos paranormais mas queria um emprego que pagasse bem,
+
+Em uma de suas caçadas os quatro caçadores encontraram um fantasma amigável, um ectoplasma verde e gosmento, mas muito sensível a quem adotaram como mascote e deram o nome de Geléia. O fantasminha até tentava, mas não conseguia ficar longe de confusão, dando muito trabalho aos Caça-Fantasmas.
+
+Quando alguém estava em perigo nas mãos de um ser fantasmagórico, Janine atendia a ligação de socorro e o grupo saía em seu veículo batizado de Ecto-1, uma velha ambulância cadilaque de 1959 cheia de sirenes, luzes e detectores que foi reformada e identificada com o símbolo do grupo. Para capturar os fantasmas o grupo usava armas com raios de prótons que traziam os monstrengos até uma armadilha portátil, depois era só chegar na sede dos Ghostbusters e descarregar o fantasma na prisão geral. Com isso os Caça-Fantasmas tinham uma prisão com centenas de criaturas detidas, algo de dar medo![COLOR red][/COLOR][/B]</info> 
+
+
+[COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info> 
+</channel> 
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+channels>
+<channel>
+<name>[COLOR blue] Scooby-Doo, Cadê Você? [/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ta1d4tFIk4jN6eMbTyE5H2HlqjS.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Scooby-Doo%2C%20Cad%C3%AA%20Voc%C3%AA%3F</externallink> 
+<fanart>https://image.tmdb.org/t/p/original/cMCsvzSanJYIznfEHDGyrFxXihD.jpg</fanart>
+<info>[B][COLOR red]SINOPSE:Scooby-Doo, Cadê Você?.. É uma série de desenho animado estadunidense, produzida pela Hanna-Barbera Productions para a CBS. É a primeira série da franquia Scooby-Doo. Estreou em 13 de setembro de 1969 às 8:30 AM e foi ao ar por duas temporadas até 31 de outubro de 1970. Vinte e cinco episódios foram produzidos. Uma série que segue os muitos mistérios da Mystery Gang, que consiste de Fred, Daphne, Velma, Salsicha e Scooby. Juntos, eles viajam ao redor do mundo, sempre em busca de um mistério a ser resolvido.[COLOR red][/COLOR][/B]</info> 
+
+
+[COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info> 
+</channel> 
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+channels>
+<channel>
+<name>[COLOR blue] Caverna do Dragão [/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5tn1vNSYhgLAeYioZtobgfDjO5u.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Caverna%20do%20Drag%C3%A3o</externallink> 
+<fanart>https://image.tmdb.org/t/p/original/bDr75zAjATHLct57c1OKM3g3Bt5.jpg</fanart>
+<info>[B][COLOR red]SINOPSE:Dungeons & Dragons (Brasil: Caverna do Dragão ) é uma série de animação baseada no jogo de RPG homônimo da TSR, coproduzida pela Marvel Productions, TSR e Toei Animation. A série possui 27 episódios divididos em três temporadas, transmitidas originalmente entre os anos de 1983 e 1985 pela rede de televisão estadunidense CBS. A animação da série ficou a cargo da empresa japonesa Toei Animation. A série estreou no Brasil em 1985, no programa Balão Mágico da Rede Globo. A série focou em um grupo de seis amigos que são transportados para o reino titular e seguiram suas aventuras enquanto tentavam encontrar um caminho para casa com a ajuda de seu guia, o Mestre dos Magos (Dungeon Master no original).[COLOR red][/COLOR][/B]</info> 
+
+
+[COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info> 
+</channel> 
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+channels>
+<channel>
+<name>[COLOR blue] Carros na Estrada [/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2Zgp2CcCo0Dxb8ePjhBONzvvAfH.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Carros%20na%20Estrada</externallink> 
+<fanart>https://image.tmdb.org/t/p/original/5o2T1IFyNwe88vWXm3WkpitK9gt.jpg</fanart>
+<info>[B][COLOR red]SINOPSE:Acompanhe Relâmpago McQueen e seu melhor amigo Mate atravessando o país em sua viagem saindo de Radiator Springs para encontrar a irmã de Mate. Ao longo do caminho, toda parada é uma aventura com atrações de beira de estrada absurdas e novas personagens bem pitorescos.[COLOR red][/COLOR][/B]</info> 
+
+
+[COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info> 
+</channel> 
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+<channels>
+<channel>
+<name>[COLOR blue]Os Cavaleiros do Zodíaco [/COLOR]</name> 
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/paC5oA5f1xRA43Udj1vyIrGbFFd.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/OS%20CAVALEIROS%20DO%20ZODIACO</externallink>
+<fanart>https://image.tmdb.org/t/p/original/afMyocyc9QHdksy5EAJW6Mm2rt4.jpg</fanart>
+<info>O Arco da Guerra Galáctica é o primeiro Arco da série Os Cavaleiros do Zodíaco e o primeiro Arco da Saga do Santuário. Neste Arco são apresentados os Cavaleiros, os conceitos do Cosmo, os personagens principais, bem como a introdução da historia de Atena. Dez garotos retornam de sua jornada dos mais diversos lugares do mundo trazendo consigo as lendárias Armaduras dos Cavaleiros de Atena (Armaduras de Bronze). Deu-se início a maior batalha de toda a história do mundo – a Guerra Galáctica – para escolher, entre esses 10 garotos, o merecedor da mais poderosa das Armaduras, a Armadura de Ouro. Entretanto, com aparição de Fênix e seus Cavaleiros Negros, a verdadeira batalha pela posse da Armadura de Ouro só está começando.<info>
+
+
+
+[COLOR deeppink]|[/COLOR] - AS MELHORES DESENHOS- [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+
+
+<channels>
+<channel>
+<name>[COLOR blue]Naruto[/COLOR]</name> 
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vaEX9f8ud7iF0G7EoyGxAyRNV1p.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/NATURO</externallink>
+<fanart>https://image.tmdb.org/t/p/original/y3XMIea7mwTzxt3NFFXi5YJKeFJ.jpg</fanart>
+<info>Demônios que antes quase destruíram o mundo, agora foram libertados por alguém. Para evitar a destruição, os demônios devem ser novamente selados e trancados, e a única pessoa capaz de fazer isto é uma menina chamada Shion. Ela vem do país do demônio e é capaz de duas coisas: prever a morte de pessoas e também selar demônios. Desta vez, a missão de Naruto é proteger Shion, mas ela prevê a morte dele.<info>
+[COLOR deeppink]|[/COLOR] - OS MELHORES DESENHOS- [COLOR deeppink]|[/COLOR]</info>
+
+
+[COLOR deeppink]|[/COLOR] - AS MELHORES DESENHOS- [COLOR deeppink]|[/COLOR]</info>  
+</channel>
+</channels> 
+
+
+
+
+<channels>
+<channel> 
+<name>[COLOR blue]As Aventuras de Jackie Chan[/COLOR]</name> 
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gr2QyAB8TQdMKqi19qOJV2sx1t5.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/As%20Aventuras%20de%20Jackie%20Chan</externallink>
+<fanart>https://image.tmdb.org/t/p/original/46722efNEr177U8XYnuIMGQABzU.jpg</fanart>
+<info>Jackie Chan em uma de suas pesquisas encontra um escudo com um talismã e sua vida muda completamente, ele reve seu amigo Capitão Black e tem que deter a Mão Negra e proteger os talismãs para não reavivar Shendu e com a ajuda de Jade, Tio, Capitão Black e a Sessão 13 para deter as forças das trevas.<info>
+[COLOR deeppink]|[/COLOR] - OS MELHORES DESENHOS- [COLOR deeppink]|[/COLOR]</info>
+ 
+
+[COLOR deeppink]|[/COLOR] - AS MELHORES DESENHOS- [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+
+
+
+<channels>
+<channel>
+<name>[COLOR blue]He-Man e Os Defensores do Universo[/COLOR]</name> 
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/omwfYtYuz67f5cyYqh7CvfqkpO3.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/He-Man%20e%20Os%20Defensores%20do%20Universo</externallink>
+<fanart>https://image.tmdb.org/t/p/original/CK181mxEMf9iwQhvHd8DMgMFda.jpg</fanart>
+<info>He-Man na verdade escondia-se por trás da identidade do Príncipe de Etérnia, Adam, filho do Rei Randor e da Rainha Marlena, um jovem que ganhou a Espada Mágica depois de ser levado ao Castelo de Greyskull pelo amigo Mentor.
+
+Erguendo a espada de Greyskull e gritando "Pelos poderes de Greyskull... Eu tenho a Força!" ele transformava-se em He-Man, o homem mais poderoso do universo.
+
+Ao seu lado estava seu tigre de estimação, o medroso Pacato, que quando tinha a espada de Greyskull apontada para ele durante a transformação de He-Man, virava o “Gato Guerreiro”, um animal forte e feroz e que servia de montaria para o herói.
+
+Entre as poucas pessoas que conheciam a identidade secreta de He-Man estavam o chefe da guarda do castelo de Etérnia, Ducan, mais conhecido como Mentor, que além de ser um forte guerreiro era um excelente cientista, a Feiticeira era outra que sabia que Adam e He-Man eram a mesma pessoa, afinal foi ela que concedeu os poderes ao príncipe.
+
+Ela era uma poderosa mulher que tinha a habilidade de se transformar num pássaro chamado Zoar.
+
+Feiticeira era na verdade a mãe da guerreira Teela, que foi entregue aos cuidados de Mentor quando pequena e por isso não sabia que a Feiticeira era sua verdadeira mãe, e o mágico atrapalhado Gorpo, uma pequena e flutuante criatura nativa de Trolla que nunca revela seu rosto.
+
+Entre os demais aliados da força do bem estavam: Stratos, conhecido pelas pessoas como o "Cinzento amigo voador de He-Man", Aríete, que possuía grande força em sua cabeça, podendo destruir facilmente obstáculos com seu capacete, além de Stratos, Multi-Faces, Mekaneck, Abelhão, Fisto e Granamir.
+
+Juntos eles precisam combater a vilania liderada pelo Esqueleto.<info>
+[COLOR deeppink]|[/COLOR] - OS MELHORES DESENHOS- [COLOR deeppink]|[/COLOR]</info>
+
+
+[COLOR deeppink]|[/COLOR] - AS MELHORES DESENHOS- [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+
+
+
+
+<channels>
+<channel>
+<name>[COLOR blue]ThunderCats[/COLOR]</name> 
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/egt8DMFDkGlgSZsh1aifKNv6raU.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/ThunderCats</externallink>
+<fanart>https://image.tmdb.org/t/p/original/rHHSBsitu1BV0E8HsvWbZ57OfCn.jpg</fanart>
+<info>ThunderCats conta as aventuras de um grupo de felinos sobreviventes do planeta Thundera. O primeiro episódio da série começa com a destruição de Thundera, forçando os ThunderCats (uma espécie de nobreza Thunderiana) a fugir de seu planeta natal. A frota é atacada pelos inimigos dos Thunderianos, os mutantes de Plun-Darr, que destruíram todas as naves da frota Thunderiana, exceto a nave-mãe, na esperança de capturar a lendária Espada Justiceira (Sword of Omens, no original) que eles acreditam estar a bordo desta. A espada possui o Olho Místico de Thundera, a fonte do poder dos ThunderCats, encrustado na empunhadura. Embora os Mutantes tenham causado danos à nave-mãe, o velho guardião de Lion-O, Jaga, se oferece para pilotar a nave e levá-los em segurança ao “Terceiro Mundo”. No entanto, Jaga morre no processo porque a viagem leva várias décadas, apesar da tecnologia avançada da nave interestelar. Entre os personagens principais estão o jovem lorde dos ThunderCats, Lion-O, e os ThunderCats Cheetara, Panthro, Tygra, WilyKit, WilyKat e Snarf .<info>
+[COLOR deeppink]|[/COLOR] - OS MELHORES DESENHOS- [COLOR deeppink]|[/COLOR]</info>
+
+
+[COLOR deeppink]|[/COLOR] - AS MELHORES DESENHOS- [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+
+
+
+
+<channels>
+<channel>
+<name>[COLOR blue]Os Simpsons[/COLOR]</name>  
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9fSGtPOp3MlFfynLEjYjlOfenbk.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/OS%20SIMPSON</externallink>
+<fanart>https://image.tmdb.org/t/p/original/adZ9ldSlkGfLfsHNbh37ZThCcgU.jpg</fanart>
+<info>A família Simpsons mora na cidade de Springfield, uma cidade americana como qualquer outra. Homer trabalha como inspetor de segurança numa usina de energia nuclear. Marge tenta manter a paz em sua família. Bart é um travesso garoto de 10 anos. Lisa, 8, é a inteligente da família, que adora tocar saxofone e é vegetariana. E a pequena Maggie conquista todos enquanto não larga sua chupeta. E a série tem um rico, e muitas vezes estranho, universo de personagens que também habitam Springfield. Com roteiros inteligentes, humor subversivo e divertidamente genial, a série faz piadas de si mesma e de todo mundo que aparecer em seu caminho.<info>
+[COLOR deeppink]|[/COLOR] - OS MELHORES DESENHOS- [COLOR deeppink]|[/COLOR]</info>
+ 
+
+[COLOR deeppink]|[/COLOR] - AS MELHORES DESENHOS- [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+
+
+
+<channels>
+<channel>
+<name>[COLOR blue]Liga da Justiça Sem Limites[/COLOR]</name>  
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vRRvCUREeqqnp3hHdqep83eQjdP.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/LIGA%20DA%20JUSTI%C3%87A</externallink>
+<fanart>https://image.tmdb.org/t/p/original/afn2H9NUFfhGR89o1ifuvSNKgYJ.jpg</fanart>
+<info>Liga da Justiça Sem Limites é uma série de animação americana produzida pela Warner Bros. Animation e exibida no Cartoon Network. Apresentando uma grande variedade de super-heróis do universo DC Comics, e especificamente baseado na equipe de super-heróis da Liga da Justiça, é uma sequência direta da série de animação anterior da Liga da Justiça.<info>
+[COLOR deeppink]|[/COLOR] - OS MELHORES DESENHOS- [COLOR deeppink]|[/COLOR]</info>
+ 
+
+[COLOR deeppink]|[/COLOR] - AS MELHORES DESENHOS- [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+
+
+
+<channels>
+<channel>
+<name>[COLOR blue] Dragon Ball Z[/COLOR]</name> 
+<thumbnail>https://image.tmdb.org/t/p/original/s9xZojg7pNDv26hzvi0Lgt5esWC.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/Dragon%20Ball%20Z</externallink>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yK6slcBGtDySbZAboYAfwb0WZ1D.jpg</fanart>
+<info>Cinco anos após vencer o Torneio Mundial de Artes Marciais, Goku tem uma vida pacífica com sua esposa e filho. No entanto, isso muda com a chegada de um misterioso inimigo chamado Raditz, que se apresenta como o irmão perdido de Goku e revela que ele é um guerreiro da raça Saiyan, e que originalmente foi enviado à Terra para conquista-la. Com sua tentativa fracassada de recrutar Goku como aliado, Raditz adverte Goku e seus amigos de que uma nova ameaça se aproxima rapidamente da Terra, uma que poderia mergulhar o planeta em um conflito intergaláctico e fazer os próprios céus tremerem. Uma guerra será travada pelas esferas místicas do dragão, e somente os mais fortes sobreviverão.<info>
+[COLOR deeppink]|[/COLOR] - OS MELHORES DESENHOS- [COLOR deeppink]|[/COLOR]</info>
+ 
+
+[COLOR deeppink]|[/COLOR] - AS MELHORES DESENHOS- [COLOR deeppink]|[/COLOR]</info> 
+</channel>
+</channels>
+
+
+
+
+
+
+
+
+
+

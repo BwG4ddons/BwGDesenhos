@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<channels>  
+
+ 
+   <channel>
+<name>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [COLOR orange] DESENHOS PARTE 1 [/COLOR][/B]</name>
+<thumbnail>https://ia801404.us.archive.org/32/items.jpg</thumbnail>
+<fanart>https://ia601506.us.archive.org/1/items/fa_20220903.jpg</fanart>
+<info>[COLOR blue]*[COLOR] animes [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/BwG4ddons/BwG/refs/heads/home/BwGDesenhos1</externallink>
+</channel>
+
+
+ <channel>
+<name>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [COLOR orange] DESENHOS PARTE 2 [/COLOR][/B]</name>
+<thumbnail>https://ia801409.us.archive.org/8/items/.jpg</thumbnail>
+<fanart>https://ia601506.us.archive.org/1/items/fa_20220903/jpg</fanart>
+<info>[COLOR blue]*[COLOR bora relembrar a infancia [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/BwG4ddons/BwG/refs/heads/home/BwGDesenhos2</externallink>
+</channel>
+  
+  
+  <channel>
+<name>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [COLOR orange] DESENHOS PARTE 3 [/COLOR][/B]</name>
+<thumbnail>https://ia801408.us.archive.org/9/items/two-addons-variados.jpg</thumbnail>
+<fanart>https://ia801408.us.archive.org/9/items/two-addons-variados.jpg</fanart>
+<info>[COLOR blue]*[COLOR] [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/BwG4ddons/BwG/refs/heads/home/BwGDesenhos3</externallink>
+</channel>
+
+ 
+ 
+ 
+</channels>
